@@ -1,0 +1,20 @@
+# ninja log v5
+17	5232	613957259	CMakeFiles/MedianDataStructure.dir/MedianHeap.cpp.obj	2fbbb5ede44d3dfc
+13	6315	613957260	CMakeFiles/MedianDataStructure.dir/main.cpp.obj	b495ad9fd9958a82
+7	6570	613957261	CMakeFiles/MedianDataStructure.dir/Google_tests/test.cpp.obj	f8098da3a3cff69d
+27	6793	613957261	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	7928e008480b6a5f
+23	7776	613957262	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock-all.cc.obj	a856090b6ae8c53e
+6794	9710	613957264	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	8b19853950f02ddc
+6334	10689	613957265	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	1f742047e4a663cb
+20	11337	613957265	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.obj	a7bc816f67ffe546
+5232	12094	613957266	lib/googletest/googlemock/CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.obj	c4ea89ee9a88b131
+11338	12303	613957265	lib/gmock_maind.lib	ec1570569df5219
+12094	12608	613957266	lib/gmockd.lib	8865cef30bf27320
+6571	13452	613957267	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	b80ae9673b6a2b60
+13452	13775	613957268	lib/gtestd.lib	1e499658b037a99
+13775	13933	613957268	lib/gtest_maind.lib	c2b08969d618a114
+13933	17668	613957271	MedianDataStructure.exe	c676d214a5f2b1e2
+3	3801	613962131	CMakeFiles/MedianDataStructure.dir/MedianHeap.cpp.obj	2fbbb5ede44d3dfc
+62	4308	613962131	CMakeFiles/MedianDataStructure.dir/main.cpp.obj	b495ad9fd9958a82
+66	4377	613962131	CMakeFiles/MedianDataStructure.dir/Google_tests/test.cpp.obj	f8098da3a3cff69d
+4377	7956	613962134	MedianDataStructure.exe	c676d214a5f2b1e2

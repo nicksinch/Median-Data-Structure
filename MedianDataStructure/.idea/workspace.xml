@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="MedianDataStructure" targetName="MedianDataStructure" />
+      <config projectName="MedianDataStructure" targetName="gtest_main" />
+      <config projectName="MedianDataStructure" targetName="gmock" />
+      <config projectName="MedianDataStructure" targetName="gtest" />
+      <config projectName="MedianDataStructure" targetName="gmock_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e69b5aa1-0eb4-4a09-86a6-fea0c4b04b10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lib/googletest" />
+  </component>
+  <component name="ProjectId" id="1dH1VMWRp6uJ6PGIfC45miWNDE7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nicks\Desktop\Median-Data-Structure\MedianDataStructure\Google_tests" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="main.cpp" />
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.MedianDataStructure">
+    <configuration name="EvenSequenceSuite.EvenDuplicates" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="MedianDataStructure" RUN_TARGET_PROJECT_NAME="MedianDataStructure" RUN_TARGET_NAME="MedianDataStructure" TEST_CLASS="EvenSequenceSuite" TEST_METHOD="EvenDuplicates" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddSequenceSuite.HasOnlyNegativesOther" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="MedianDataStructure" RUN_TARGET_PROJECT_NAME="MedianDataStructure" RUN_TARGET_NAME="MedianDataStructure" TEST_CLASS="OddSequenceSuite" TEST_METHOD="HasOnlyNegativesOther" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddSequenceSuite.OddDuplicates" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="MedianDataStructure" RUN_TARGET_PROJECT_NAME="MedianDataStructure" RUN_TARGET_NAME="MedianDataStructure" TEST_CLASS="OddSequenceSuite" TEST_METHOD="OddDuplicates" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrickySequenceSuite.AlotOfNumbers" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="MedianDataStructure" RUN_TARGET_PROJECT_NAME="MedianDataStructure" RUN_TARGET_NAME="MedianDataStructure" TEST_CLASS="TrickySequenceSuite" TEST_METHOD="AlotOfNumbers" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianDataStructure" type="CMakeRunConfiguration" factoryName="Application" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="MedianDataStructure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MedianDataStructure" RUN_TARGET_NAME="MedianDataStructure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MedianDataStructure" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.MedianDataStructure" />
+      <item itemvalue="Google Test.OddSequenceSuite.HasOnlyNegativesOther" />
+      <item itemvalue="Google Test.OddSequenceSuite.OddDuplicates" />
+      <item itemvalue="Google Test.EvenSequenceSuite.EvenDuplicates" />
+      <item itemvalue="Google Test.TrickySequenceSuite.AlotOfNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Application.MedianDataStructure" />
+        <item itemvalue="Google Test.TrickySequenceSuite.AlotOfNumbers" />
+        <item itemvalue="Google Test.EvenSequenceSuite.EvenDuplicates" />
+        <item itemvalue="Google Test.OddSequenceSuite.OddDuplicates" />
+        <item itemvalue="Google Test.OddSequenceSuite.HasOnlyNegativesOther" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69b5aa1-0eb4-4a09-86a6-fea0c4b04b10" name="Default Changelist" comment="" />
+      <created>1592067226987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592067226987</updated>
+      <workItem from="1592067233293" duration="6915000" />
+      <workItem from="1592121702207" duration="2896000" />
+      <workItem from="1592143244046" duration="2770000" />
+      <workItem from="1592147696486" duration="302000" />
+      <workItem from="1592156428631" duration="2571000" />
+      <workItem from="1592245495413" duration="2772000" />
+      <workItem from="1592249762519" duration="35000" />
+      <workItem from="1592249861186" duration="1766000" />
+      <workItem from="1592254291518" duration="4433000" />
+      <workItem from="1592259096736" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592158130104">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1592158130104" />
+    <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1592256212188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1592256212188" />
+    <state width="1323" height="281" key="GridCell.Tab.0.bottom" timestamp="1592259298330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592259298330" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592248666051" />
+    <state width="1323" height="281" key="GridCell.Tab.0.center" timestamp="1592259298330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="281" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592259298330" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1592248666051" />
+    <state width="1323" height="281" key="GridCell.Tab.0.left" timestamp="1592259298330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="281" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592259298330" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1592248666051" />
+    <state width="1323" height="281" key="GridCell.Tab.0.right" timestamp="1592259298330">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="281" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592259298330" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1592248666051" />
+    <state width="1323" height="232" key="GridCell.Tab.1.bottom" timestamp="1592258762643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592258762643" />
+    <state width="1323" height="242" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592124654103" />
+    <state width="1323" height="232" key="GridCell.Tab.1.center" timestamp="1592258762643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592258762643" />
+    <state width="1323" height="242" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1592124654103" />
+    <state width="1323" height="232" key="GridCell.Tab.1.left" timestamp="1592258762643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592258762643" />
+    <state width="1323" height="242" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1592124654103" />
+    <state width="1323" height="232" key="GridCell.Tab.1.right" timestamp="1592258762643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="232" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592258762643" />
+    <state width="1323" height="242" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1592124654103" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592259099487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592259099487" />
+    <state x="339" y="172" width="672" height="677" key="run.anything.popup" timestamp="1592158151745">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1592158151745" />
+  </component>
+</project>
