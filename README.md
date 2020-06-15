@@ -1,5 +1,6 @@
 # Median-Data-Structure
 EDIT: The repo is a little bit large because of Google Test Framework.
+
 A class that represents a data structure MedianHeap which supports two operations:
 Insert (in O(log(n)) time complexity.
 GetMedian (in O(1)) time complexity.
